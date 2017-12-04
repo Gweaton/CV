@@ -28,11 +28,11 @@ A Full-Stack Junior Software Developer, dedicated to XP practices, currently wor
 
 ## Projects
 
-| Name                                                                           | Description                                                                 | Technologies Used                     |   |
-|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------|---|
-| [News Summary App](https://github.com/Gweaton/news-summary-app)                | Single page web app that summarises the day's articles from The Guardian    | Angular 5, TypeScript                 |   |
-| [Just Jam (Makers Academy Final Project)](https://github.com/Gweaton/just-jam) | App to help musicians find each other and start a band                      | Node.js, Javascript, MongoDB, Express |   |
-| [Instagram Clone](https://github.com/Gweaton/instagram-challenge)              | A clone of Instagram, built over a weekend during my time at Makers Academy | Ruby on Rails                         |   |
+| Name                                                                           | Description                                                                 | Technologies Used                     |
+|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------|
+| [News Summary App](https://github.com/Gweaton/news-summary-app)                | Single page web app that summarises the day's articles from The Guardian    | Angular 5, TypeScript                 |
+| [Just Jam (Makers Academy Final Project)](https://github.com/Gweaton/just-jam) | App to help musicians find each other and start a band                      | Node.js, Javascript, MongoDB, Express |
+| [Instagram Clone](https://github.com/Gweaton/instagram-challenge)              | A clone of Instagram, built over a weekend during my time at Makers Academy | Ruby on Rails                         |
 
 ## Experience
 
