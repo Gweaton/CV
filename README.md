@@ -30,19 +30,21 @@ A Full-Stack Junior Software Developer, dedicated to XP practices, currently wor
 ## Experience
 
 **HSBC (contracted via Makers Academy)** (April 2017 - current)
+
 *Software Developer*
 - Working with Pivotal Labs on pilot agile project to build an internal application to track staff performance at the bank.
 - Java 8 / Spring Boot API back-end, Angular front-end, deployed on Pivotal Cloud Foundry.
 - Pair-programming, Test-Driven Development, Continuous Integration (Jenkins).
 
 **Sawday’s: Special Places To Stay** (July 2014 - February 2016)
+
 *Membership Experience Coordinator*
 - Providing customer service (in English, Spanish & Italian), editorial assistance and tech support.
 - Assisting with project to introduce new Salesforce CRM into the business and training staff on new systems.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2016 - February 2017)
 - Software Craftsmanship
 - Full-stack web development
 - Object-Oriented Programming, Test-Driven Development & Pair Programming
