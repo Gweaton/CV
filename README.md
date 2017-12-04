@@ -3,7 +3,6 @@
 A Full-Stack Junior Software Developer, dedicated to XP practices, currently working as a contractor at HSBC on a pilot agile project in partnership with Pivotal Labs. I left the travel publishing industry to become a Software Developer and learn best practices from Makers Academy, London's leading 12-week Web Development bootcamp. Tech-agnostic, dedicated to Test-Driven Development and passionate about learning new languages, I’m looking for a second job with like-minded people where I can dive in at the deep end and make a difference from day one.
 
 ## Skills
-
 #### Programming languages & frameworks
 - Java (Spring Boot)
 - Ruby (Rails/Sinatra)
@@ -27,6 +26,14 @@ A Full-Stack Junior Software Developer, dedicated to XP practices, currently wor
 #### Attention to detail
 - I’m meticulous with my test coverage, and through consistent Test-Driven Development I’m careful to leave nothing untested, particularly edge cases. If even the smallest tweak to my code affects my application in an unforeseen way, I want to know about it.
 
+## Projects
+
+| Name                                                                           | Description                                                                 | Technologies Used                     |   |
+|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------|---|
+| [News Summary App](https://github.com/Gweaton/news-summary-app)                | Single page web app that summarises the day's articles from The Guardian    | Angular 5, TypeScript                 |   |
+| [Just Jam (Makers Academy Final Project)](https://github.com/Gweaton/just-jam) | App to help musicians find each other and start a band                      | Node.js, Javascript, MongoDB, Express |   |
+| [Instagram Clone](https://github.com/Gweaton/instagram-challenge)              | A clone of Instagram, built over a weekend during my time at Makers Academy | Ruby on Rails                         |   |
+
 ## Experience
 
 **HSBC (contracted via Makers Academy)** (April 2017 - current)
@@ -41,9 +48,7 @@ A Full-Stack Junior Software Developer, dedicated to XP practices, currently wor
 *Membership Experience Coordinator*
 - Providing customer service (in English, Spanish & Italian), editorial assistance and tech support.
 - Assisting with project to introduce new Salesforce CRM into the business and training staff on new systems.
-
 ## Education
-
 #### Makers Academy (November 2016 - February 2017)
 - Software Craftsmanship
 - Full-stack web development
