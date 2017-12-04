@@ -50,11 +50,11 @@ A Full-Stack Junior Software Developer, dedicated to XP practices, currently wor
 - Object-Oriented Programming, Test-Driven Development & Pair Programming
 
 #### University of Bristol (September 2010 - July 2014)
-	Italian and Spanish BA, 2:1
+Italian and Spanish BA, 2:1
 - Including a third year abroad studying at Università degli Studi di Siena (Siena, Italy) & Universidad Pablo de Olavide     (Seville, Spain)
 
 #### King's College School (2005 - 2010)
-	International Baccalaureate (A-Level Equivalent): 41/45 Points
+International Baccalaureate (A-Level Equivalent): 41/45 Points
   - Higher level: History (7), Spanish (7), French (6).
   - Standard level: English (6) Mathematical Studies (7), Biology (7)
   - 1 bonus point.
