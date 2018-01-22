@@ -36,7 +36,7 @@ A Full-Stack Junior Software Developer, dedicated to XP practices, currently wor
 
 ## Experience
 
-**HSBC (contracted via Makers Academy)** (April 2017 - current)
+**HSBC (contracted via Makers Academy)** (April 2017 - December 2017)
 
 *Software Developer*
 - Working with Pivotal Labs on pilot agile project to build an internal application to track staff performance at the bank.
